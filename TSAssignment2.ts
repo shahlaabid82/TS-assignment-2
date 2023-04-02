@@ -161,3 +161,13 @@ class MotorCycle extends Vehicle
         } 
     } 
 }
+
+ const myCar = new Car("Toyota", "Corolla", 2009, false);
+ const myCar2 = new Car("Honda", "City", 2020, true);
+
+ const myMotorCycle= new MotorCycle("Honda", "CG", 2023, false);
+
+ const myTruck = new Car("Toyota", "XT200", 2021, false);
+
+
+
